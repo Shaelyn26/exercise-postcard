@@ -19,27 +19,27 @@ body {
 	height: 50px;
 }
 .postcard-header h1 {
-	width: x;
-	margin: x;
+	width: 100%;
+	margin: 10px;
 }
 .postcard-body {
 	display: flex;
 }
 .body-left p:first child {
-	margin-top: x;
+	margin-top: 0;
 }
 .body-left,
 .body-right {
-	padding: x;
+	padding: 10px;
 }
 input {
-	border: none;
-	border-bottom: grey;
+	border: 10px;
+	border-bottom: solid grey;
 }
 .postcard-footer {
 	text-align: center;
 }
 button {
 	background-color: green;
-	padding: x;
+	padding: 10px;
 }
